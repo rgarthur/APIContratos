@@ -4,6 +4,7 @@ using APIContratos.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace APIContratos.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260325144610_AjusteFkArquivo")]
+    partial class AjusteFkArquivo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -40,9 +43,6 @@ namespace APIContratos.Migrations
                     b.Property<int>("IdUsuario")
                         .HasColumnType("int");
 
-                    b.Property<bool>("Valido")
-                        .HasColumnType("bit");
-
                     b.HasKey("Id");
 
                     b.ToTable("Arquivos");
@@ -64,9 +64,6 @@ namespace APIContratos.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("Valido")
-                        .HasColumnType("bit");
-
                     b.HasKey("Id");
 
                     b.ToTable("Clientes");
@@ -80,9 +77,6 @@ namespace APIContratos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<bool>("Ativo")
-                        .HasColumnType("bit");
-
                     b.Property<int>("ClienteId")
                         .HasColumnType("int");
 
@@ -95,7 +89,7 @@ namespace APIContratos.Migrations
                     b.Property<int>("NumeroContrato")
                         .HasColumnType("int");
 
-                    b.Property<int?>("Produto")
+                    b.Property<int>("Produto")
                         .HasColumnType("int");
 
                     b.Property<decimal>("Valor")
@@ -119,9 +113,6 @@ namespace APIContratos.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<bool>("Administrador")
-                        .HasColumnType("bit");
-
-                    b.Property<bool>("Ativo")
                         .HasColumnType("bit");
 
                     b.Property<string>("Email")

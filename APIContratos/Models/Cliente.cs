@@ -7,5 +7,7 @@
         public string Cpf { get; set; }
 
         public List<Contrato> Contratos { get; set; } = new List<Contrato>();
+
+        public bool Valido { get; set; } = true;
     }
 }

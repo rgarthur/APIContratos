@@ -6,5 +6,6 @@
         public int IdUsuario { get; set; }
         public DateTime Data { get; set; }
         public string Caminho { get; set; }
+        public bool Valido { get; set; } = true;
     }
 }
