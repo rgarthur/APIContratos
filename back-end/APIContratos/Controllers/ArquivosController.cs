@@ -1,4 +1,4 @@
-﻿using APIContratos.DTOs.ContratoDTOs;
+﻿using APIContratos.DTOs.ArquivoDTOs;
 using APIContratos.Interfaces;
 using APIContratos.UseCases;
 using Microsoft.AspNetCore.Authorization;
@@ -30,7 +30,12 @@ namespace APIContratos.Controllers
                 if (request.Arquivo == null || request.Arquivo.Length == 0)
                     return BadRequest("O arquivo é nulo ou não possui conteúdo.");
 
-                _importarPlanilhaUseCase.Processar(request.Arquivo);
+                var userIdClaim = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
+                if (string.IsNullOrEmpty(userIdClaim)) return Unauthorized();
+
+                request.UsuarioId = int.Parse(userIdClaim);
+
+                _importarPlanilhaUseCase.Processar(request.Arquivo, request.UsuarioId);
 
                 return Ok(new { mensagem = $"Arquivo {request.Arquivo.FileName} processado com sucesso!" });
             }

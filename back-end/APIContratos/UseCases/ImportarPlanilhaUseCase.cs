@@ -22,7 +22,7 @@ namespace APIContratos.UseCases
             _unitOfWork = unitOfWork;
         }
 
-        public void Processar(IFormFile arquivo)
+        public void Processar(IFormFile arquivo, int idUsuario)
         {
             _arquivoService.ArquivoJaExiste(arquivo);
 
@@ -35,7 +35,7 @@ namespace APIContratos.UseCases
 
             Dictionary<string, Cliente> novosClientesCache = new Dictionary<string, Cliente>();
 
-            Arquivo arquivoImportado = _arquivoService.SalvarArquivo(arquivo);
+            Arquivo arquivoImportado = _arquivoService.SalvarArquivo(arquivo, idUsuario);
 
             foreach (var linhaAtual in planilhaProcessada)
             {

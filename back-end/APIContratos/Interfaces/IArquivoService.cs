@@ -7,7 +7,7 @@ namespace APIContratos.Interfaces
     {
         IEnumerable<ContratoDTO> ProcessarPlanilha(IFormFile arquivo);
         IEnumerable<Arquivo> ObterHistoricoArquivos();
-        Arquivo SalvarArquivo(IFormFile arquivo);
+        Arquivo SalvarArquivo(IFormFile arquivo, int idUsuario);
         void ArquivoJaExiste(IFormFile nomeArquivo);
         void ExcluirArquivo(int id);
     }

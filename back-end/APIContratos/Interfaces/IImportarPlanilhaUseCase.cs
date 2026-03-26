@@ -2,6 +2,6 @@
 {
     public interface IImportarPlanilhaUseCase
     {
-        void Processar(IFormFile arquivo);
+        void Processar(IFormFile arquivo, int idUsuario);
     }
 }

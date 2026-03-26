@@ -75,7 +75,7 @@ namespace APIContratos.Services
                 throw new Exception("Arquivo ja importado anteriormente");
         }
 
-        public Arquivo SalvarArquivo(IFormFile arquivo)
+        public Arquivo SalvarArquivo(IFormFile arquivo, int idUsuario)
         {
             var caminho = Path.Combine("Storage", arquivo.FileName);
 
@@ -86,6 +86,7 @@ namespace APIContratos.Services
             {
                 Caminho = caminho,
                 Data = DateTime.Now,
+                IdUsuario = idUsuario
             };
 
             _context.Add(novoArquivo);

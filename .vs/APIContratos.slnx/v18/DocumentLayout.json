@@ -1,32 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\models\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\models\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\apicontratos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\apicontratos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Nesfro\\source\\repos\\rgarthur\\APIContratos\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,84 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "APIContratos\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Properties\\launchSettings.json",
-              "RelativeToolTip": "APIContratos\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-26T15:58:54.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Arquivo.cs",
-              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Arquivo.cs",
-              "RelativeDocumentMoniker": "APIContratos\\Models\\Arquivo.cs",
-              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Arquivo.cs",
-              "RelativeToolTip": "APIContratos\\Models\\Arquivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T15:56:39.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Program.cs",
-              "RelativeDocumentMoniker": "APIContratos\\Program.cs",
-              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Program.cs",
-              "RelativeToolTip": "APIContratos\\Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:59:18.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APIContratos\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "APIContratos\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T15:58:37.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "APIContratos.http",
-              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\APIContratos.http",
-              "RelativeDocumentMoniker": "APIContratos\\APIContratos.http",
-              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\APIContratos.http",
-              "RelativeToolTip": "APIContratos\\APIContratos.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-26T13:58:31.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Contrato.cs",
-              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Contrato.cs",
-              "RelativeDocumentMoniker": "APIContratos\\Models\\Contrato.cs",
-              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Contrato.cs",
-              "RelativeToolTip": "APIContratos\\Models\\Contrato.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T02:24:25.762Z",
-              "EditorCaption": ""
             }
           ]
         }
