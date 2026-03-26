@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-
-namespace APIContratos.DTOs
+﻿namespace APIContratos.DTOs.ContratoDTOs
 {
     public class ArquivoUploadDto
     {

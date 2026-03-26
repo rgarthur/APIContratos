@@ -1,6 +1,6 @@
 ﻿using APIContratos.Models;
 
-namespace APIContratos.DTOs
+namespace APIContratos.DTOs.ContratoDTOs
 {
     public class ContratoFiltroDTO
     {

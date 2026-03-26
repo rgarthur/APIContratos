@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using APIContratos.Interfaces;
-using APIContratos.DTOs;
+using APIContratos.DTOs.ContratoDTOs;
+using Microsoft.AspNetCore.Authorization;
 
 namespace APIContratos.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class ContratosController : ControllerBase
     {
         private readonly IContratoService _service;
@@ -13,26 +15,6 @@ namespace APIContratos.Controllers
         public ContratosController(IContratoService service)
         {
             _service = service;
-        }
-
-        [HttpPost("importar")]
-        public IActionResult ImportarContrato([FromForm] ArquivoUploadDto request)
-        {
-            try
-            {
-                IFormFile arquivo = request.Arquivo;
-
-                if (arquivo == null || arquivo.Length == 0)
-                    return BadRequest($"O arquivo {nameof(arquivo)} é nulo ou não possui conteudo");
-
-                _service.ProcessarPlanilha(arquivo);
-
-                return Ok("Planilha processada com sucesso!");
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, $"ERRO FATAL: {ex.Message} | Detalhe: {ex.InnerException?.Message}");
-            }
         }
 
         [HttpGet]

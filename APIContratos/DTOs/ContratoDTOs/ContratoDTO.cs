@@ -1,4 +1,4 @@
-﻿namespace APIContratos.DTOs
+﻿namespace APIContratos.DTOs.ContratoDTOs
 {
     public class ContratoDTO
     {
