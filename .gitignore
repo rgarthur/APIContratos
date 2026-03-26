@@ -480,3 +480,11 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Ignorar arquivos de configuracao com chaves sensiveis
+**/appsettings.json
+**/appsettings.Development.json
+
+# Ignorar arquivos de upload, mas manter a pasta Storage
+**/Storage/*
+!**/Storage/.gitkeep
