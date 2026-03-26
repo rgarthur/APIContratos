@@ -24,9 +24,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("PermitirTudo", policy =>
+    options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.AllowAnyOrigin()
+        policy.WithOrigins("http://localhost:5173")
               .AllowAnyMethod()
               .AllowAnyHeader();
     });
@@ -88,9 +88,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+if (!app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 
-app.UseCors("PermitirTudo");
+app.UseCors("AllowReactApp");
 
 app.UseAuthentication();
 

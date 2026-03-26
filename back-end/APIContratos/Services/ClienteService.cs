@@ -39,8 +39,8 @@ namespace APIContratos.Services
         public IEnumerable<Cliente> VisualizarClientes(ClienteFiltroDTO filtro)
         {
             var query = _context.Clientes.Where(c => c.Valido).AsQueryable();
-            if (!string.IsNullOrWhiteSpace(filtro.Nome)) query = query.Where(c => c.Cpf == filtro.Nome);
-            if (!string.IsNullOrWhiteSpace(filtro.Cpf)) query = query.Where(c => c.Nome.Contains(filtro.Cpf));
+            if (!string.IsNullOrWhiteSpace(filtro.Nome)) query = query.Where(c => c.Nome.Contains(filtro.Nome));
+            if (!string.IsNullOrWhiteSpace(filtro.Cpf)) query = query.Where(c => c.Cpf == filtro.Cpf);
 
             return query.ToList();
         }

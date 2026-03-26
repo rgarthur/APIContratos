@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\services\\contratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\services\\contratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\services\\arquivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\services\\arquivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\usecases\\importarplanilhausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\usecases\\importarplanilhausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\models\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\models\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\interfaces\\icontratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\interfaces\\icontratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\dtos\\usuariodtos\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\dtos\\usuariodtos\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\controllers\\arquivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\controllers\\arquivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\apicontratos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\apicontratos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\dtos\\usuariodtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\dtos\\usuariodtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\interfaces\\iarquivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\interfaces\\iarquivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\interfaces\\iimportarplanilhausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\interfaces\\iimportarplanilhausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|c:\\users\\jonas brothers\\source\\repos\\rgarthur\\apicontratos\\apicontratos\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC850B2B-D5BD-D8B6-63B5-0CAB206A21F3}|APIContratos\\APIContratos.csproj|solutionrelative:apicontratos\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratoService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\ContratoService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Services\\ContratoService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\ContratoService.cs",
+              "RelativeToolTip": "APIContratos\\Services\\ContratoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T15:56:25.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\TokenService.cs",
+              "RelativeToolTip": "APIContratos\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T15:56:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\ClienteService.cs",
+              "RelativeToolTip": "APIContratos\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:25:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImportarPlanilhaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\UseCases\\ImportarPlanilhaUseCase.cs",
+              "RelativeDocumentMoniker": "APIContratos\\UseCases\\ImportarPlanilhaUseCase.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\UseCases\\ImportarPlanilhaUseCase.cs",
+              "RelativeToolTip": "APIContratos\\UseCases\\ImportarPlanilhaUseCase.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:34:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArquivoService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\ArquivoService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Services\\ArquivoService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\ArquivoService.cs",
+              "RelativeToolTip": "APIContratos\\Services\\ArquivoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:07:26.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "APIContratos\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T15:47:53.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arquivo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Arquivo.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Models\\Arquivo.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Arquivo.cs",
+              "RelativeToolTip": "APIContratos\\Models\\Arquivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T15:56:39.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "APIContratos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:55:46.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioRegistroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\DTOs\\UsuarioDTOs\\UsuarioRegistroDTO.cs",
+              "RelativeDocumentMoniker": "APIContratos\\DTOs\\UsuarioDTOs\\UsuarioRegistroDTO.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\DTOs\\UsuarioDTOs\\UsuarioRegistroDTO.cs",
+              "RelativeToolTip": "APIContratos\\DTOs\\UsuarioDTOs\\UsuarioRegistroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:49:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "APIContratos\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwE8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:56:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "APIContratos\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:52:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Program.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Program.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Program.cs",
+              "RelativeToolTip": "APIContratos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:59:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContratoService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IContratoService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Interfaces\\IContratoService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IContratoService.cs",
+              "RelativeToolTip": "APIContratos\\Interfaces\\IContratoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:43:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArquivosController.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\ArquivosController.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Controllers\\ArquivosController.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\ArquivosController.cs",
+              "RelativeToolTip": "APIContratos\\Controllers\\ArquivosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:04:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContratosController.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\ContratosController.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Controllers\\ContratosController.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Controllers\\ContratosController.cs",
+              "RelativeToolTip": "APIContratos\\Controllers\\ContratosController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA5wAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:56:58.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "APIContratos.http",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\APIContratos.http",
+              "RelativeDocumentMoniker": "APIContratos\\APIContratos.http",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\APIContratos.http",
+              "RelativeToolTip": "APIContratos\\APIContratos.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-26T13:58:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\DTOs\\UsuarioDTOs\\UsuarioLoginDTO.cs",
+              "RelativeDocumentMoniker": "APIContratos\\DTOs\\UsuarioDTOs\\UsuarioLoginDTO.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\DTOs\\UsuarioDTOs\\UsuarioLoginDTO.cs",
+              "RelativeToolTip": "APIContratos\\DTOs\\UsuarioDTOs\\UsuarioLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:49:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IArquivoService.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IArquivoService.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Interfaces\\IArquivoService.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IArquivoService.cs",
+              "RelativeToolTip": "APIContratos\\Interfaces\\IArquivoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:06:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "APIContratos\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:36:24.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "APIContratos\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:53:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IImportarPlanilhaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IImportarPlanilhaUseCase.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Interfaces\\IImportarPlanilhaUseCase.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Interfaces\\IImportarPlanilhaUseCase.cs",
+              "RelativeToolTip": "APIContratos\\Interfaces\\IImportarPlanilhaUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:33:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Contrato.cs",
+              "RelativeDocumentMoniker": "APIContratos\\Models\\Contrato.cs",
+              "ToolTip": "C:\\Users\\jonas brothers\\source\\repos\\rgarthur\\APIContratos\\APIContratos\\Models\\Contrato.cs",
+              "RelativeToolTip": "APIContratos\\Models\\Contrato.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:24:25.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
